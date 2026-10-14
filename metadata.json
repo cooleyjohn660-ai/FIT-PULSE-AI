@@ -1,0 +1,7 @@
+{
+  "name": "FitPulse AI",
+  "description": "AI-powered fitness assistant that tracks workouts, suggests personalized meal plans, and tracks macronutrient intake in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
